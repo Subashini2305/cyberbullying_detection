@@ -1,0 +1,501 @@
+id,text,user_age,platform,toxicity_score,label
+1,"You're so ugly, no one likes you!",15,Twitter,0.48,1
+2,"You're such a loser, go away!",15,Facebook,0.33,1
+3,You should just quit social media.,11,TikTok,0.96,1
+4,"You're such a loser, go away!",14,Instagram,0.17,1
+5,"Hey, how's your day going?",18,Facebook,0.28,0
+6,Happy birthday! Hope you have a great day.,17,Facebook,0.17,0
+7,"Hey, how's your day going?",16,Facebook,0.15,0
+8,Nobody wants to be your friend.,12,Snapchat,0.63,1
+9,"That was a fun game, well played!",10,Facebook,0.29,0
+10,You should just quit social media.,15,Facebook,0.85,1
+11,"That was a fun game, well played!",10,Snapchat,0.17,0
+12,Let's meet up this weekend.,17,Snapchat,0.18,0
+13,"That was a fun game, well played!",13,Snapchat,0.14,0
+14,That's a cool picture!,10,Facebook,0.18,0
+15,I love your new post!,11,Facebook,0.08,0
+16,I can't believe how dumb you are.,15,Instagram,0.37,1
+17,Let's meet up this weekend.,14,Snapchat,0.21,0
+18,"Hey, how's your day going?",14,Facebook,0.1,0
+19,I can't believe how dumb you are.,16,Facebook,0.18,1
+20,"Nice post! Just kidding, it's terrible.",18,Facebook,0.86,1
+21,Good luck on your exam tomorrow!,17,Twitter,0.1,0
+22,"Hey, how's your day going?",13,Instagram,0.02,0
+23,I can't believe how dumb you are.,15,Facebook,0.31,1
+24,"That was a fun game, well played!",12,Facebook,0.15,0
+25,That's a cool picture!,13,Snapchat,0.18,0
+26,Good luck on your exam tomorrow!,15,Snapchat,0.26,0
+27,"That was a fun game, well played!",15,Twitter,0.14,0
+28,Let's meet up this weekend.,13,TikTok,0.22,0
+29,Good luck on your exam tomorrow!,12,Twitter,0.11,0
+30,Happy birthday! Hope you have a great day.,17,Facebook,0.04,0
+31,"That was a fun game, well played!",16,Twitter,0.01,0
+32,I love your new post!,18,TikTok,0.01,0
+33,I love your new post!,18,TikTok,0.28,0
+34,That's a cool picture!,15,Instagram,0.21,0
+35,That's a cool picture!,18,TikTok,0.23,0
+36,Let's meet up this weekend.,17,TikTok,0.29,0
+37,That's a cool picture!,11,Facebook,0.04,0
+38,Happy birthday! Hope you have a great day.,13,Snapchat,0.26,0
+39,Good luck on your exam tomorrow!,11,Twitter,0.29,0
+40,You should just quit social media.,18,Instagram,0.82,1
+41,Good luck on your exam tomorrow!,17,Instagram,0.11,0
+42,"You're such a loser, go away!",18,TikTok,0.79,1
+43,"You're worthless, just disappear.",14,Instagram,0.11,1
+44,"You're so ugly, no one likes you!",14,Instagram,0.33,1
+45,"You're worthless, just disappear.",17,Twitter,0.86,1
+46,Happy birthday! Hope you have a great day.,15,Snapchat,0.08,0
+47,I love your new post!,10,Instagram,0.09,0
+48,I can't believe how dumb you are.,13,Instagram,0.23,1
+49,Let's meet up this weekend.,18,Twitter,0.17,0
+50,"You're so ugly, no one likes you!",14,Facebook,0.16,1
+51,Happy birthday! Hope you have a great day.,18,Instagram,0.13,0
+52,"That was a fun game, well played!",14,Twitter,0.18,0
+53,Good luck on your exam tomorrow!,15,Facebook,0.13,0
+54,Nobody wants to be your friend.,11,Twitter,0.73,1
+55,"You're so ugly, no one likes you!",17,Facebook,0.54,1
+56,Let's meet up this weekend.,17,Instagram,0.24,0
+57,Good luck on your exam tomorrow!,13,Twitter,0.29,0
+58,Let's meet up this weekend.,15,Instagram,0.09,0
+59,I love your new post!,17,Instagram,0.04,0
+60,"You're so ugly, no one likes you!",17,Instagram,0.91,1
+61,Happy birthday! Hope you have a great day.,11,Snapchat,0.17,0
+62,I can't believe how dumb you are.,15,TikTok,0.7,1
+63,Nobody wants to be your friend.,18,TikTok,0.99,1
+64,Let's meet up this weekend.,13,Twitter,0.27,0
+65,Let's meet up this weekend.,17,Facebook,0.15,0
+66,Happy birthday! Hope you have a great day.,15,TikTok,0.21,0
+67,Let's meet up this weekend.,14,Instagram,0.14,0
+68,"That was a fun game, well played!",18,TikTok,0.17,0
+69,You should just quit social media.,18,TikTok,0.19,1
+70,"Nice post! Just kidding, it's terrible.",12,Instagram,0.26,1
+71,Good luck on your exam tomorrow!,18,Facebook,0.12,0
+72,"You're so ugly, no one likes you!",17,Twitter,0.35,1
+73,That's a cool picture!,14,Facebook,0.02,0
+74,"You're such a loser, go away!",15,Snapchat,0.96,1
+75,"You're so ugly, no one likes you!",15,Snapchat,0.63,1
+76,I love your new post!,13,TikTok,0.1,0
+77,Let's meet up this weekend.,11,Snapchat,0.05,0
+78,I can't believe how dumb you are.,17,Twitter,0.56,1
+79,"That was a fun game, well played!",17,Snapchat,0.01,0
+80,That's a cool picture!,14,Facebook,0.07,0
+81,You should just quit social media.,14,Twitter,0.74,1
+82,Nobody wants to be your friend.,14,Facebook,0.99,1
+83,Good luck on your exam tomorrow!,17,Facebook,0.3,0
+84,"That was a fun game, well played!",17,Twitter,0.15,0
+85,That's a cool picture!,13,TikTok,0.01,0
+86,Let's meet up this weekend.,13,Twitter,0.08,0
+87,"That was a fun game, well played!",15,Snapchat,0.17,0
+88,That's a cool picture!,18,Twitter,0.11,0
+89,I love your new post!,15,Instagram,0.2,0
+90,I love your new post!,17,Instagram,0.25,0
+91,You should just quit social media.,14,Facebook,0.64,1
+92,"You're worthless, just disappear.",11,Twitter,0.18,1
+93,I can't believe how dumb you are.,10,Twitter,0.37,1
+94,That's a cool picture!,10,Snapchat,0.06,0
+95,That's a cool picture!,10,Twitter,0.01,0
+96,Nobody wants to be your friend.,15,Instagram,0.85,1
+97,"You're worthless, just disappear.",17,Facebook,0.69,1
+98,That's a cool picture!,12,Facebook,0.15,0
+99,I can't believe how dumb you are.,18,TikTok,0.48,1
+100,"That was a fun game, well played!",17,TikTok,0.01,0
+101,You should just quit social media.,14,TikTok,0.96,1
+102,"You're such a loser, go away!",16,Facebook,0.34,1
+103,"You're such a loser, go away!",15,Snapchat,0.91,1
+104,Let's meet up this weekend.,13,TikTok,0.27,0
+105,"Hey, how's your day going?",14,Instagram,0.25,0
+106,You should just quit social media.,16,Instagram,0.36,1
+107,Nobody wants to be your friend.,15,Facebook,0.11,1
+108,"That was a fun game, well played!",18,Instagram,0.08,0
+109,You should just quit social media.,18,Facebook,0.86,1
+110,Let's meet up this weekend.,11,Facebook,0.27,0
+111,"That was a fun game, well played!",10,Instagram,0.09,0
+112,Nobody wants to be your friend.,18,Instagram,0.82,1
+113,"Nice post! Just kidding, it's terrible.",14,Instagram,0.49,1
+114,You should just quit social media.,18,Snapchat,0.7,1
+115,"You're worthless, just disappear.",16,Twitter,0.29,1
+116,"That was a fun game, well played!",16,Instagram,0.27,0
+117,"Nice post! Just kidding, it's terrible.",14,Twitter,0.21,1
+118,"You're worthless, just disappear.",11,Instagram,0.42,1
+119,"That was a fun game, well played!",15,Twitter,0.13,0
+120,"You're so ugly, no one likes you!",14,TikTok,0.13,1
+121,"You're such a loser, go away!",11,Snapchat,0.69,1
+122,Happy birthday! Hope you have a great day.,17,Snapchat,0.03,0
+123,That's a cool picture!,11,TikTok,0.18,0
+124,"That was a fun game, well played!",14,Instagram,0.27,0
+125,"You're worthless, just disappear.",13,Instagram,0.43,1
+126,"You're worthless, just disappear.",18,Twitter,0.83,1
+127,"Nice post! Just kidding, it's terrible.",17,Snapchat,0.91,1
+128,Let's meet up this weekend.,12,Instagram,0.07,0
+129,"You're such a loser, go away!",18,Facebook,0.95,1
+130,"Nice post! Just kidding, it's terrible.",15,Twitter,0.78,1
+131,"That was a fun game, well played!",15,Facebook,0.1,0
+132,"You're such a loser, go away!",17,Instagram,0.15,1
+133,"You're worthless, just disappear.",16,Twitter,0.37,1
+134,Nobody wants to be your friend.,10,Snapchat,0.46,1
+135,I can't believe how dumb you are.,10,Twitter,0.85,1
+136,That's a cool picture!,11,Twitter,0.03,0
+137,"You're such a loser, go away!",14,TikTok,0.44,1
+138,"Nice post! Just kidding, it's terrible.",10,Instagram,0.71,1
+139,"You're so ugly, no one likes you!",16,TikTok,0.74,1
+140,I can't believe how dumb you are.,10,TikTok,0.79,1
+141,I can't believe how dumb you are.,14,Instagram,0.95,1
+142,You should just quit social media.,18,Snapchat,1.0,1
+143,"That was a fun game, well played!",17,Twitter,0.03,0
+144,Good luck on your exam tomorrow!,18,Twitter,0.19,0
+145,"That was a fun game, well played!",10,Twitter,0.0,0
+146,I love your new post!,12,Twitter,0.12,0
+147,"That was a fun game, well played!",12,Twitter,0.03,0
+148,"You're such a loser, go away!",14,Instagram,0.61,1
+149,"Nice post! Just kidding, it's terrible.",17,Facebook,0.48,1
+150,Nobody wants to be your friend.,15,Instagram,0.22,1
+151,Nobody wants to be your friend.,10,TikTok,0.67,1
+152,You should just quit social media.,11,Instagram,0.82,1
+153,That's a cool picture!,15,Snapchat,0.3,0
+154,"You're such a loser, go away!",17,Instagram,0.99,1
+155,Happy birthday! Hope you have a great day.,15,Instagram,0.16,0
+156,"Nice post! Just kidding, it's terrible.",14,Instagram,0.57,1
+157,"Nice post! Just kidding, it's terrible.",11,Facebook,0.64,1
+158,Good luck on your exam tomorrow!,14,Facebook,0.17,0
+159,"You're so ugly, no one likes you!",12,Facebook,0.99,1
+160,"Hey, how's your day going?",17,Facebook,0.14,0
+161,"You're such a loser, go away!",14,Instagram,0.44,1
+162,I love your new post!,10,Instagram,0.14,0
+163,Nobody wants to be your friend.,16,Twitter,0.92,1
+164,That's a cool picture!,15,Twitter,0.3,0
+165,Happy birthday! Hope you have a great day.,16,Snapchat,0.19,0
+166,That's a cool picture!,14,Instagram,0.23,0
+167,"Nice post! Just kidding, it's terrible.",13,Instagram,0.75,1
+168,You should just quit social media.,13,Facebook,0.44,1
+169,I can't believe how dumb you are.,12,Snapchat,0.61,1
+170,"That was a fun game, well played!",11,Twitter,0.25,0
+171,"That was a fun game, well played!",18,Snapchat,0.19,0
+172,Good luck on your exam tomorrow!,17,Facebook,0.17,0
+173,I love your new post!,10,Facebook,0.0,0
+174,"You're so ugly, no one likes you!",14,Facebook,0.81,1
+175,"Hey, how's your day going?",12,Facebook,0.17,0
+176,"You're such a loser, go away!",11,Twitter,0.97,1
+177,I love your new post!,10,Facebook,0.3,0
+178,That's a cool picture!,12,Instagram,0.07,0
+179,Happy birthday! Hope you have a great day.,12,TikTok,0.08,0
+180,"You're worthless, just disappear.",12,Snapchat,0.11,1
+181,I can't believe how dumb you are.,12,Twitter,0.99,1
+182,I can't believe how dumb you are.,18,Snapchat,0.24,1
+183,"You're so ugly, no one likes you!",18,Snapchat,0.86,1
+184,Happy birthday! Hope you have a great day.,12,Facebook,0.3,0
+185,I love your new post!,15,Facebook,0.27,0
+186,"You're such a loser, go away!",17,Snapchat,0.42,1
+187,"You're so ugly, no one likes you!",10,Twitter,0.95,1
+188,"You're such a loser, go away!",13,Snapchat,0.85,1
+189,I can't believe how dumb you are.,12,Instagram,0.69,1
+190,Happy birthday! Hope you have a great day.,17,Instagram,0.16,0
+191,"You're such a loser, go away!",14,Snapchat,0.83,1
+192,Happy birthday! Hope you have a great day.,12,Snapchat,0.24,0
+193,Nobody wants to be your friend.,15,Snapchat,0.99,1
+194,I love your new post!,11,Twitter,0.1,0
+195,I love your new post!,14,Snapchat,0.1,0
+196,"Hey, how's your day going?",12,Instagram,0.0,0
+197,"Hey, how's your day going?",13,Instagram,0.0,0
+198,Happy birthday! Hope you have a great day.,16,Facebook,0.14,0
+199,Let's meet up this weekend.,11,Facebook,0.11,0
+200,Good luck on your exam tomorrow!,12,Snapchat,0.07,0
+201,You should just quit social media.,12,Twitter,0.45,1
+202,Good luck on your exam tomorrow!,15,Twitter,0.12,0
+203,"You're worthless, just disappear.",17,Facebook,0.17,1
+204,"You're so ugly, no one likes you!",13,Instagram,0.67,1
+205,"You're worthless, just disappear.",12,Facebook,0.84,1
+206,"That was a fun game, well played!",13,Snapchat,0.04,0
+207,"Nice post! Just kidding, it's terrible.",10,TikTok,0.31,1
+208,"Hey, how's your day going?",12,Instagram,0.05,0
+209,"You're so ugly, no one likes you!",18,Facebook,0.42,1
+210,Nobody wants to be your friend.,13,Facebook,0.17,1
+211,"Nice post! Just kidding, it's terrible.",10,Twitter,0.51,1
+212,Nobody wants to be your friend.,18,Snapchat,0.76,1
+213,I can't believe how dumb you are.,16,Instagram,0.61,1
+214,"You're worthless, just disappear.",10,Instagram,0.99,1
+215,I can't believe how dumb you are.,11,Snapchat,0.25,1
+216,Let's meet up this weekend.,17,Facebook,0.05,0
+217,"Hey, how's your day going?",10,Snapchat,0.14,0
+218,"You're worthless, just disappear.",16,TikTok,0.59,1
+219,"Hey, how's your day going?",14,Facebook,0.2,0
+220,"Nice post! Just kidding, it's terrible.",12,Instagram,0.7,1
+221,That's a cool picture!,12,Instagram,0.19,0
+222,"Hey, how's your day going?",17,Facebook,0.22,0
+223,"You're such a loser, go away!",18,Facebook,0.16,1
+224,You should just quit social media.,14,TikTok,0.53,1
+225,"You're worthless, just disappear.",11,TikTok,0.13,1
+226,"You're so ugly, no one likes you!",13,Instagram,0.31,1
+227,I love your new post!,12,TikTok,0.3,0
+228,You should just quit social media.,13,Instagram,0.67,1
+229,That's a cool picture!,15,Instagram,0.17,0
+230,That's a cool picture!,16,Twitter,0.09,0
+231,Good luck on your exam tomorrow!,16,Twitter,0.2,0
+232,I can't believe how dumb you are.,15,Facebook,0.34,1
+233,"Nice post! Just kidding, it's terrible.",16,Twitter,0.53,1
+234,"Hey, how's your day going?",10,Facebook,0.12,0
+235,Nobody wants to be your friend.,10,Snapchat,0.69,1
+236,You should just quit social media.,15,Instagram,0.2,1
+237,"You're worthless, just disappear.",18,Twitter,0.67,1
+238,Nobody wants to be your friend.,18,Instagram,0.51,1
+239,"You're worthless, just disappear.",15,TikTok,0.35,1
+240,"Nice post! Just kidding, it's terrible.",15,Facebook,0.36,1
+241,You should just quit social media.,12,Instagram,0.39,1
+242,You should just quit social media.,18,Snapchat,0.36,1
+243,"Nice post! Just kidding, it's terrible.",11,Twitter,0.7,1
+244,I love your new post!,15,Facebook,0.27,0
+245,I love your new post!,13,TikTok,0.19,0
+246,I love your new post!,16,Twitter,0.12,0
+247,Happy birthday! Hope you have a great day.,10,TikTok,0.28,0
+248,I love your new post!,16,Snapchat,0.08,0
+249,Let's meet up this weekend.,17,TikTok,0.19,0
+250,Happy birthday! Hope you have a great day.,13,Facebook,0.3,0
+251,That's a cool picture!,18,TikTok,0.02,0
+252,"Hey, how's your day going?",16,Instagram,0.1,0
+253,You should just quit social media.,10,Facebook,0.25,1
+254,Nobody wants to be your friend.,16,Instagram,0.31,1
+255,Happy birthday! Hope you have a great day.,10,Instagram,0.14,0
+256,"Hey, how's your day going?",15,Snapchat,0.11,0
+257,That's a cool picture!,14,Facebook,0.13,0
+258,"You're such a loser, go away!",10,Facebook,0.29,1
+259,That's a cool picture!,14,Twitter,0.28,0
+260,You should just quit social media.,14,Snapchat,0.33,1
+261,"You're so ugly, no one likes you!",12,Instagram,0.56,1
+262,"You're so ugly, no one likes you!",16,TikTok,0.93,1
+263,Good luck on your exam tomorrow!,14,Instagram,0.15,0
+264,Let's meet up this weekend.,15,Facebook,0.04,0
+265,"You're so ugly, no one likes you!",14,TikTok,0.8,1
+266,"You're so ugly, no one likes you!",15,Facebook,0.17,1
+267,You should just quit social media.,17,Facebook,0.87,1
+268,"You're worthless, just disappear.",10,Twitter,0.39,1
+269,"Nice post! Just kidding, it's terrible.",15,Facebook,0.55,1
+270,"Nice post! Just kidding, it's terrible.",17,Twitter,0.81,1
+271,That's a cool picture!,17,Instagram,0.27,0
+272,"You're worthless, just disappear.",15,Instagram,0.38,1
+273,Nobody wants to be your friend.,13,TikTok,0.4,1
+274,Nobody wants to be your friend.,16,Twitter,0.64,1
+275,I can't believe how dumb you are.,13,Facebook,0.61,1
+276,Happy birthday! Hope you have a great day.,18,Facebook,0.07,0
+277,Good luck on your exam tomorrow!,10,Facebook,0.23,0
+278,"You're so ugly, no one likes you!",10,Snapchat,0.18,1
+279,"You're worthless, just disappear.",13,TikTok,0.44,1
+280,That's a cool picture!,17,Snapchat,0.06,0
+281,Good luck on your exam tomorrow!,16,Instagram,0.15,0
+282,"You're worthless, just disappear.",14,TikTok,0.68,1
+283,Good luck on your exam tomorrow!,16,Snapchat,0.16,0
+284,That's a cool picture!,15,TikTok,0.11,0
+285,I love your new post!,16,Snapchat,0.26,0
+286,"Nice post! Just kidding, it's terrible.",12,Twitter,0.88,1
+287,"You're worthless, just disappear.",12,Facebook,0.3,1
+288,Good luck on your exam tomorrow!,11,Instagram,0.27,0
+289,"You're so ugly, no one likes you!",12,Facebook,0.53,1
+290,"That was a fun game, well played!",18,TikTok,0.13,0
+291,"You're worthless, just disappear.",10,Instagram,0.96,1
+292,You should just quit social media.,15,Instagram,0.16,1
+293,Let's meet up this weekend.,14,TikTok,0.18,0
+294,Happy birthday! Hope you have a great day.,15,Twitter,0.07,0
+295,I can't believe how dumb you are.,15,Twitter,0.16,1
+296,I love your new post!,11,Twitter,0.29,0
+297,"You're worthless, just disappear.",13,Twitter,0.61,1
+298,"You're such a loser, go away!",10,Twitter,0.64,1
+299,"You're so ugly, no one likes you!",16,Instagram,0.25,1
+300,Nobody wants to be your friend.,18,Twitter,0.88,1
+301,I love your new post!,16,Instagram,0.15,0
+302,Nobody wants to be your friend.,10,TikTok,0.94,1
+303,"You're worthless, just disappear.",17,Snapchat,0.66,1
+304,I can't believe how dumb you are.,15,Snapchat,0.17,1
+305,I can't believe how dumb you are.,17,Facebook,0.48,1
+306,Happy birthday! Hope you have a great day.,17,Twitter,0.25,0
+307,You should just quit social media.,10,Instagram,0.79,1
+308,I love your new post!,14,TikTok,0.06,0
+309,"You're worthless, just disappear.",13,Snapchat,0.66,1
+310,"Hey, how's your day going?",17,Snapchat,0.02,0
+311,Happy birthday! Hope you have a great day.,14,TikTok,0.22,0
+312,I can't believe how dumb you are.,14,Snapchat,0.55,1
+313,Good luck on your exam tomorrow!,17,Snapchat,0.14,0
+314,Let's meet up this weekend.,15,TikTok,0.23,0
+315,"You're so ugly, no one likes you!",12,Instagram,0.93,1
+316,"You're such a loser, go away!",11,Twitter,0.23,1
+317,"That was a fun game, well played!",13,TikTok,0.2,0
+318,"That was a fun game, well played!",16,Instagram,0.05,0
+319,You should just quit social media.,14,Instagram,0.92,1
+320,I can't believe how dumb you are.,12,Snapchat,0.14,1
+321,Good luck on your exam tomorrow!,13,Snapchat,0.07,0
+322,"That was a fun game, well played!",16,Snapchat,0.25,0
+323,I love your new post!,15,Facebook,0.26,0
+324,Good luck on your exam tomorrow!,18,Twitter,0.18,0
+325,"Nice post! Just kidding, it's terrible.",11,TikTok,0.68,1
+326,"Nice post! Just kidding, it's terrible.",10,Instagram,0.48,1
+327,That's a cool picture!,18,TikTok,0.09,0
+328,Nobody wants to be your friend.,18,TikTok,0.35,1
+329,"You're worthless, just disappear.",13,Twitter,0.63,1
+330,I love your new post!,12,TikTok,0.04,0
+331,That's a cool picture!,14,Instagram,0.23,0
+332,I love your new post!,15,Instagram,0.3,0
+333,Let's meet up this weekend.,13,Instagram,0.1,0
+334,I can't believe how dumb you are.,13,Facebook,0.91,1
+335,I can't believe how dumb you are.,18,Twitter,0.49,1
+336,You should just quit social media.,11,Instagram,0.86,1
+337,I love your new post!,12,Twitter,0.14,0
+338,That's a cool picture!,15,TikTok,0.15,0
+339,I love your new post!,11,Facebook,0.23,0
+340,Nobody wants to be your friend.,17,Twitter,0.13,1
+341,"You're worthless, just disappear.",18,Snapchat,0.79,1
+342,Good luck on your exam tomorrow!,11,Instagram,0.26,0
+343,"Hey, how's your day going?",17,Twitter,0.05,0
+344,I love your new post!,16,Twitter,0.13,0
+345,I love your new post!,13,TikTok,0.27,0
+346,"Nice post! Just kidding, it's terrible.",13,TikTok,0.56,1
+347,"You're such a loser, go away!",12,Facebook,0.31,1
+348,I can't believe how dumb you are.,15,Snapchat,0.1,1
+349,That's a cool picture!,17,TikTok,0.2,0
+350,Let's meet up this weekend.,10,TikTok,0.28,0
+351,"That was a fun game, well played!",17,TikTok,0.07,0
+352,You should just quit social media.,18,Snapchat,0.92,1
+353,You should just quit social media.,18,Instagram,0.63,1
+354,That's a cool picture!,16,Instagram,0.13,0
+355,That's a cool picture!,14,Twitter,0.01,0
+356,Let's meet up this weekend.,13,TikTok,0.0,0
+357,"You're such a loser, go away!",13,TikTok,0.13,1
+358,"You're worthless, just disappear.",13,TikTok,0.51,1
+359,"Nice post! Just kidding, it's terrible.",12,TikTok,0.87,1
+360,"Hey, how's your day going?",16,Snapchat,0.2,0
+361,I love your new post!,10,Instagram,0.06,0
+362,Good luck on your exam tomorrow!,14,Twitter,0.0,0
+363,"Hey, how's your day going?",12,TikTok,0.02,0
+364,"You're worthless, just disappear.",17,TikTok,0.92,1
+365,Happy birthday! Hope you have a great day.,11,TikTok,0.07,0
+366,"You're worthless, just disappear.",15,Facebook,0.77,1
+367,"You're so ugly, no one likes you!",13,TikTok,0.75,1
+368,I can't believe how dumb you are.,11,TikTok,0.76,1
+369,Let's meet up this weekend.,10,Twitter,0.12,0
+370,"Hey, how's your day going?",13,Twitter,0.1,0
+371,I can't believe how dumb you are.,15,Facebook,0.13,1
+372,That's a cool picture!,12,Instagram,0.13,0
+373,"You're so ugly, no one likes you!",12,Instagram,0.97,1
+374,"That was a fun game, well played!",13,Facebook,0.17,0
+375,"Hey, how's your day going?",10,Snapchat,0.09,0
+376,"You're worthless, just disappear.",18,Twitter,0.27,1
+377,Good luck on your exam tomorrow!,16,Facebook,0.29,0
+378,"Nice post! Just kidding, it's terrible.",12,Twitter,0.8,1
+379,I love your new post!,17,Instagram,0.07,0
+380,"That was a fun game, well played!",14,Snapchat,0.06,0
+381,Happy birthday! Hope you have a great day.,12,Instagram,0.18,0
+382,"Nice post! Just kidding, it's terrible.",16,Snapchat,0.8,1
+383,"You're such a loser, go away!",17,Snapchat,0.99,1
+384,"You're so ugly, no one likes you!",10,Snapchat,0.14,1
+385,"Nice post! Just kidding, it's terrible.",17,Facebook,0.75,1
+386,"That was a fun game, well played!",17,TikTok,0.05,0
+387,"You're so ugly, no one likes you!",14,TikTok,0.24,1
+388,"You're worthless, just disappear.",18,TikTok,0.18,1
+389,Let's meet up this weekend.,13,TikTok,0.27,0
+390,Good luck on your exam tomorrow!,12,Instagram,0.0,0
+391,Good luck on your exam tomorrow!,10,Instagram,0.19,0
+392,Let's meet up this weekend.,13,Snapchat,0.22,0
+393,I can't believe how dumb you are.,15,Snapchat,0.39,1
+394,Nobody wants to be your friend.,10,TikTok,0.14,1
+395,That's a cool picture!,11,Snapchat,0.08,0
+396,"You're worthless, just disappear.",13,Snapchat,0.15,1
+397,"Nice post! Just kidding, it's terrible.",10,Facebook,0.28,1
+398,Good luck on your exam tomorrow!,10,Facebook,0.16,0
+399,"You're such a loser, go away!",14,TikTok,0.73,1
+400,"Nice post! Just kidding, it's terrible.",12,Facebook,0.45,1
+401,Nobody wants to be your friend.,12,Instagram,0.71,1
+402,"You're such a loser, go away!",10,Snapchat,0.13,1
+403,"That was a fun game, well played!",16,TikTok,0.16,0
+404,"You're so ugly, no one likes you!",14,Snapchat,0.63,1
+405,"That was a fun game, well played!",11,Snapchat,0.18,0
+406,I love your new post!,17,Facebook,0.3,0
+407,Good luck on your exam tomorrow!,12,TikTok,0.23,0
+408,Happy birthday! Hope you have a great day.,13,Instagram,0.29,0
+409,You should just quit social media.,16,TikTok,0.46,1
+410,That's a cool picture!,15,Snapchat,0.06,0
+411,"Hey, how's your day going?",10,Snapchat,0.06,0
+412,Happy birthday! Hope you have a great day.,11,Twitter,0.11,0
+413,"You're such a loser, go away!",13,Facebook,0.13,1
+414,I love your new post!,14,TikTok,0.05,0
+415,I love your new post!,13,Twitter,0.12,0
+416,I can't believe how dumb you are.,10,Twitter,0.21,1
+417,Good luck on your exam tomorrow!,15,Instagram,0.04,0
+418,"You're so ugly, no one likes you!",13,TikTok,0.63,1
+419,I can't believe how dumb you are.,13,Instagram,0.61,1
+420,"You're such a loser, go away!",16,Facebook,0.88,1
+421,You should just quit social media.,15,Snapchat,0.76,1
+422,"You're worthless, just disappear.",11,Twitter,0.11,1
+423,Good luck on your exam tomorrow!,12,Instagram,0.24,0
+424,"You're worthless, just disappear.",11,Twitter,0.5,1
+425,"You're so ugly, no one likes you!",11,Twitter,0.81,1
+426,I can't believe how dumb you are.,17,Twitter,0.2,1
+427,Let's meet up this weekend.,17,Twitter,0.28,0
+428,Nobody wants to be your friend.,12,Instagram,0.25,1
+429,"You're so ugly, no one likes you!",11,Twitter,0.99,1
+430,That's a cool picture!,12,Facebook,0.19,0
+431,"You're so ugly, no one likes you!",17,Twitter,0.2,1
+432,I love your new post!,15,TikTok,0.27,0
+433,Nobody wants to be your friend.,14,Twitter,0.88,1
+434,Happy birthday! Hope you have a great day.,14,Snapchat,0.02,0
+435,"Hey, how's your day going?",11,Instagram,0.29,0
+436,I love your new post!,13,Facebook,0.07,0
+437,Nobody wants to be your friend.,13,Facebook,0.12,1
+438,"You're such a loser, go away!",16,Facebook,0.24,1
+439,"Hey, how's your day going?",14,Snapchat,0.02,0
+440,That's a cool picture!,18,Twitter,0.12,0
+441,Happy birthday! Hope you have a great day.,16,Snapchat,0.22,0
+442,Good luck on your exam tomorrow!,16,Snapchat,0.22,0
+443,I love your new post!,16,Facebook,0.14,0
+444,I can't believe how dumb you are.,13,Snapchat,0.29,1
+445,I love your new post!,13,TikTok,0.01,0
+446,"Hey, how's your day going?",14,Snapchat,0.05,0
+447,You should just quit social media.,16,Instagram,0.42,1
+448,"You're worthless, just disappear.",11,Snapchat,0.39,1
+449,Nobody wants to be your friend.,14,Facebook,0.23,1
+450,"You're so ugly, no one likes you!",12,Facebook,0.53,1
+451,That's a cool picture!,12,Snapchat,0.03,0
+452,"Nice post! Just kidding, it's terrible.",17,Snapchat,0.14,1
+453,Nobody wants to be your friend.,16,TikTok,0.94,1
+454,Good luck on your exam tomorrow!,17,Facebook,0.14,0
+455,"You're so ugly, no one likes you!",15,Snapchat,0.88,1
+456,"You're such a loser, go away!",17,Twitter,0.26,1
+457,"Hey, how's your day going?",15,Instagram,0.05,0
+458,Happy birthday! Hope you have a great day.,15,Instagram,0.07,0
+459,"You're such a loser, go away!",12,Twitter,0.41,1
+460,That's a cool picture!,17,Twitter,0.24,0
+461,"You're so ugly, no one likes you!",14,Snapchat,0.27,1
+462,I love your new post!,17,Instagram,0.06,0
+463,"You're such a loser, go away!",12,Snapchat,0.79,1
+464,"You're worthless, just disappear.",15,Snapchat,0.91,1
+465,"Nice post! Just kidding, it's terrible.",14,Facebook,0.33,1
+466,"You're worthless, just disappear.",13,Twitter,0.23,1
+467,I love your new post!,12,Snapchat,0.24,0
+468,That's a cool picture!,15,TikTok,0.16,0
+469,You should just quit social media.,15,Snapchat,0.11,1
+470,"Hey, how's your day going?",15,TikTok,0.06,0
+471,You should just quit social media.,18,Snapchat,0.13,1
+472,I love your new post!,17,Twitter,0.05,0
+473,Nobody wants to be your friend.,11,Twitter,0.56,1
+474,"You're such a loser, go away!",16,Snapchat,0.46,1
+475,That's a cool picture!,15,TikTok,0.24,0
+476,I love your new post!,11,TikTok,0.12,0
+477,That's a cool picture!,15,Twitter,0.16,0
+478,That's a cool picture!,13,Twitter,0.04,0
+479,"You're such a loser, go away!",16,Twitter,0.82,1
+480,"Hey, how's your day going?",12,Twitter,0.27,0
+481,"You're worthless, just disappear.",11,Snapchat,0.21,1
+482,"Nice post! Just kidding, it's terrible.",17,Snapchat,0.9,1
+483,That's a cool picture!,14,Twitter,0.03,0
+484,"You're such a loser, go away!",18,Instagram,0.78,1
+485,Nobody wants to be your friend.,14,Facebook,0.69,1
+486,I love your new post!,17,Instagram,0.05,0
+487,"Nice post! Just kidding, it's terrible.",15,Snapchat,0.87,1
+488,You should just quit social media.,17,Instagram,0.1,1
+489,That's a cool picture!,16,Instagram,0.24,0
+490,"You're worthless, just disappear.",18,Twitter,0.57,1
+491,"Hey, how's your day going?",15,Facebook,0.14,0
+492,Happy birthday! Hope you have a great day.,12,Twitter,0.21,0
+493,That's a cool picture!,13,Snapchat,0.11,0
+494,Let's meet up this weekend.,18,Instagram,0.09,0
+495,Nobody wants to be your friend.,16,TikTok,0.19,1
+496,"You're so ugly, no one likes you!",16,Facebook,0.41,1
+497,"Nice post! Just kidding, it's terrible.",10,Snapchat,0.67,1
+498,I can't believe how dumb you are.,15,Facebook,0.34,1
+499,"You're so ugly, no one likes you!",10,TikTok,0.92,1
+500,"You're such a loser, go away!",14,TikTok,0.43,1
